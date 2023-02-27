@@ -1,0 +1,14 @@
+// Fonts
+@import url("https://fonts.bunny.net/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+@import "welcome";
+@import "pizza/show-pizza.scss";
+@import "pizza/index-pizza.scss";
+
+@import "pizza/every-page/nav.scss";
